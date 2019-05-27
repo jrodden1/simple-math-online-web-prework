@@ -8,6 +8,7 @@ end
 
 def division(num1, num2)
   answer = num1 / num2
+  #does not guard against devide by 0 errors
 end
 
 def multiplication(num1, num2)
